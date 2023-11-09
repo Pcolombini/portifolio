@@ -7,13 +7,31 @@
     },
     {
       "name": "Em Desenvolvimento",
-      "image": "./assets/images/projeto-disney-plus.png",
+      "image": "./assets/images/emDesenvolvimento.jpg",
       "tags": ["Tecnologias", "Tecnologias", "Tecnologias", "Tecnologias"],
       "link": "https://github.com/Pcolombini/portifolio"
     },
     {
       "name": "Em Desenvolvimento",
-      "image": "./assets/images/projeto-disney-plus.png",
+      "image": "./assets/images/emDesenvolvimento.jpg",
+      "tags": ["Tecnologias", "Tecnologias", "Tecnologias", "Tecnologias"],
+      "link": "https://github.com/Pcolombini/portifolio"
+    },
+    {
+      "name": "Em Desenvolvimento",
+      "image": "./assets/images/emDesenvolvimento.jpg",
+      "tags": ["Tecnologias", "Tecnologias", "Tecnologias", "Tecnologias"],
+      "link": "https://github.com/Pcolombini/portifolio"
+    },
+    {
+      "name": "Em Desenvolvimento",
+      "image": "./assets/images/emDesenvolvimento.jpg",
+      "tags": ["Tecnologias", "Tecnologias", "Tecnologias", "Tecnologias"],
+      "link": "https://github.com/Pcolombini/portifolio"
+    },
+    {
+      "name": "Em Desenvolvimento",
+      "image": "./assets/images/emDesenvolvimento.jpg",
       "tags": ["Tecnologias", "Tecnologias", "Tecnologias", "Tecnologias"],
       "link": "https://github.com/Pcolombini/portifolio"
     }
