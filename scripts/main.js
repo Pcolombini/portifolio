@@ -33,11 +33,17 @@ const createTags = (tags) => {
     return elemTags;
 }
 
-const createProject = (project) => {
+const createProject = (project,index) => {
     const elemProject = document.createElement('a');
 
     elemProjects.setAttribute('href', project.link);
     elemProjects.setAttribute('target', '_blank');
+
+    
+    elemProjects.setAttribute('data-aos-duration','800');
+    elemProjects.setAttribute('data-aos-easing','ease-in-out');
+    elemProjects.setAttribute('data-aos-offset','-100');
+    elemProjects.setAttribute('data-aos-delay',300 * (index +1));
 
     elemProject.classList.add('project');
 
@@ -57,8 +63,8 @@ const createProject = (project) => {
 }
 
 const loadProjects = (projects) => {
-    projects.forEach(project => {
-        elemProjects.appendChild(createProject(project))
+    projects.forEach((project,index) => {
+        elemProjects.appendChild(createProject(project,index))
     });
 }
 
