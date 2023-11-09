@@ -1,0 +1,24 @@
+.footer {
+    grid-column: 1/3;
+    padding: 24px;
+}
+
+.footer small{
+    text-align: center;
+}
+
+.footer small a {
+    text-decoration: none;
+    color: var(--secundary);
+}
+
+.footer small a:hover {
+    color: var(--link);
+}
+
+@media(max-width:425px) {
+    .footer small p {
+        font-size: 12px;
+        text-align: center;
+    }
+}

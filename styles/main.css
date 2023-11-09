@@ -2,6 +2,7 @@
 @import url('./social.css');
 @import url('./about.css');
 @import url('./projects.css');
+@import url('./footer.css');
 
 * {
   margin: 0;
@@ -17,7 +18,7 @@
 
   --background-card: #FFF;
   --background-badge: #E6EEF5;
-  --background-body: #F2F5F9;
+  --background-body: #e8ebef;
 
   --shadow-image: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
   --shadow-card: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
@@ -48,4 +49,35 @@ body {
 .subtitle {
   font-size: 28px;
   font-weight: 600;
+}
+
+@media(max-width: 1200px) {
+  .app {
+    gap: 40px;
+    grid-template-columns: auto 1fr;
+
+    margin: 120px 0;
+  }
+}
+
+@media(max-width: 1080px) {
+  .app {
+    gap: 24px;
+  }
+}
+
+
+@media(max-width: 768px) {
+  .app {
+    display: flex;
+    flex-direction: column;
+
+    margin: 40px 0;
+  }
+}
+
+@media(max-width: 550px) {
+  .subtitle {
+    font-size: 24px;
+  }
 }
