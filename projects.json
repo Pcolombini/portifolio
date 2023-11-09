@@ -1,38 +1,70 @@
 [
-    {
-      "name": "Portifólio de Pessoa Desenvolvedora",
-      "image": "./assets/images/portifolio-dev.png",
-      "tags": ["HTML", "CSS", "GIT", "Deploy"],
-      "link": "https://symphonious-bublanina-15e1c9.netlify.app/"
-    },
-    {
-      "name": "Em Desenvolvimento",
-      "image": "./assets/images/emDesenvolvimento.jpg",
-      "tags": ["Tecnologias", "Tecnologias", "Tecnologias", "Tecnologias"],
-      "link": "https://github.com/Pcolombini/portifolio"
-    },
-    {
-      "name": "Em Desenvolvimento",
-      "image": "./assets/images/emDesenvolvimento.jpg",
-      "tags": ["Tecnologias", "Tecnologias", "Tecnologias", "Tecnologias"],
-      "link": "https://github.com/Pcolombini/portifolio"
-    },
-    {
-      "name": "Em Desenvolvimento",
-      "image": "./assets/images/emDesenvolvimento.jpg",
-      "tags": ["Tecnologias", "Tecnologias", "Tecnologias", "Tecnologias"],
-      "link": "https://github.com/Pcolombini/portifolio"
-    },
-    {
-      "name": "Em Desenvolvimento",
-      "image": "./assets/images/emDesenvolvimento.jpg",
-      "tags": ["Tecnologias", "Tecnologias", "Tecnologias", "Tecnologias"],
-      "link": "https://github.com/Pcolombini/portifolio"
-    },
-    {
-      "name": "Em Desenvolvimento",
-      "image": "./assets/images/emDesenvolvimento.jpg",
-      "tags": ["Tecnologias", "Tecnologias", "Tecnologias", "Tecnologias"],
-      "link": "https://github.com/Pcolombini/portifolio"
-    }
-  ]
+  {
+    "name": "Meu Portifólio de projetos",
+    "image": "./assets/images/projetoProprio.png",
+    "tags": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "JSON",
+      "Bibliotecas de animação AOS",
+      "SEO"
+    ],
+    "link": "https://github.com/Pcolombini/portifolio"
+  },
+  {
+    "name": "Portifólio de Pessoa Desenvolvedora",
+    "image": "./assets/images/portifolio-dev.png",
+    "tags": [
+      "HTML",
+      "CSS",
+      "GIT",
+      "Deploy"
+    ],
+    "link": "https://symphonious-bublanina-15e1c9.netlify.app/"
+  },
+  {
+    "name": "Em Desenvolvimento",
+    "image": "./assets/images/emDesenvolvimento.jpg",
+    "tags": [
+      "Tecnologias",
+      "Tecnologias",
+      "Tecnologias",
+      "Tecnologias"
+    ],
+    "link": "https://github.com/Pcolombini/portifolio"
+  },
+  {
+    "name": "Em Desenvolvimento",
+    "image": "./assets/images/emDesenvolvimento.jpg",
+    "tags": [
+      "Tecnologias",
+      "Tecnologias",
+      "Tecnologias",
+      "Tecnologias"
+    ],
+    "link": "https://github.com/Pcolombini/portifolio"
+  },
+  {
+    "name": "Em Desenvolvimento",
+    "image": "./assets/images/emDesenvolvimento.jpg",
+    "tags": [
+      "Tecnologias",
+      "Tecnologias",
+      "Tecnologias",
+      "Tecnologias"
+    ],
+    "link": "https://github.com/Pcolombini/portifolio"
+  },
+  {
+    "name": "Em Desenvolvimento",
+    "image": "./assets/images/emDesenvolvimento.jpg",
+    "tags": [
+      "Tecnologias",
+      "Tecnologias",
+      "Tecnologias",
+      "Tecnologias"
+    ],
+    "link": "https://github.com/Pcolombini/portifolio"
+  }
+]
