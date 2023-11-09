@@ -24,47 +24,33 @@
     "link": "https://symphonious-bublanina-15e1c9.netlify.app/"
   },
   {
-    "name": "Em Desenvolvimento",
+    "name": "Crud MVC de página blog - Em Desenvolvimento",
     "image": "./assets/images/emDesenvolvimento.jpg",
     "tags": [
-      "Tecnologias",
-      "Tecnologias",
-      "Tecnologias",
-      "Tecnologias"
+      "PHP",
+      "Composer",
+      "Twig",
+      "MVC",
+      "HTML",
+      "CSS",
+      "PHPMyAdmin",
+      "Maria DB"
     ],
-    "link": "https://github.com/Pcolombini/portifolio"
+    "link": "https://github.com/Pcolombini/crud-pagina-blog"
   },
   {
-    "name": "Em Desenvolvimento",
+    "name": "Sistema de Gerenciamento Financeiro - Em Desenvolvimento",
     "image": "./assets/images/emDesenvolvimento.jpg",
     "tags": [
-      "Tecnologias",
-      "Tecnologias",
-      "Tecnologias",
-      "Tecnologias"
+      "CRUD -> PDO",
+      "PHP",
+      "Composer",
+      "MVC",
+      "HTML",
+      "CSS",
+      "PHPMyAdmin",
+      "Maria DB"
     ],
-    "link": "https://github.com/Pcolombini/portifolio"
-  },
-  {
-    "name": "Em Desenvolvimento",
-    "image": "./assets/images/emDesenvolvimento.jpg",
-    "tags": [
-      "Tecnologias",
-      "Tecnologias",
-      "Tecnologias",
-      "Tecnologias"
-    ],
-    "link": "https://github.com/Pcolombini/portifolio"
-  },
-  {
-    "name": "Em Desenvolvimento",
-    "image": "./assets/images/emDesenvolvimento.jpg",
-    "tags": [
-      "Tecnologias",
-      "Tecnologias",
-      "Tecnologias",
-      "Tecnologias"
-    ],
-    "link": "https://github.com/Pcolombini/portifolio"
+    "link": "https://github.com/Pcolombini/sistema-gerenciamento-financeiro"
   }
 ]
